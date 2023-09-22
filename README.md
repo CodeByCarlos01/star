@@ -12,6 +12,9 @@ Para iniciar o jogo, execute o executável `.jar` que se encontra na pasta `dist
 Siga as instruções. Os jogadores alternam entre as cores `vermelho` e `verde`. Insira o número da coluna onde deseja soltar a peça.
 ### 4. Final do Jogo:
 O jogo continuará até que um dos jogadores vença conectando quatro peças ou até que o tabuleiro esteja completamente cheio, resultando em empate. O vencedor será anunciado no final.
+## Imagens
+![ScreenShot_20230922184417](https://github.com/CodeByCarlos01/star/assets/107969946/fc57d3e0-95e1-48a0-8fd4-dd37beeb47c9)
+![ScreenShot_20230922184616](https://github.com/CodeByCarlos01/star/assets/107969946/471b2a4a-145b-435f-b6e7-7c277882ce0a)
 ## Contribuição
 Se você quiser contribuir para o projeto do Jogo da Estrela (LIG4), sinta-se à vontade para criar um fork do repositório, fazer melhorias e enviar uma solicitação pull. Qualquer contribuição é bem-vinda!
 
