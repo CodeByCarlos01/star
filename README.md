@@ -19,3 +19,6 @@ O jogo continuará até que um dos jogadores vença conectando quatro peças ou 
 Se você quiser contribuir para o projeto do Jogo da Estrela (LIG4), sinta-se à vontade para criar um fork do repositório, fazer melhorias e enviar uma solicitação pull. Qualquer contribuição é bem-vinda!
 
 *Divirta-se jogando o Jogo da Estrela (LIG4)!*
+
+##  **Meu Linked** ![logo](https://github.com/CodeByCarlos01/language-DSL/assets/107969946/aefba453-727d-4b05-ad1c-7e932947ba90) :
+https://www.linkedin.com/in/carlos-eduh/ 👍
